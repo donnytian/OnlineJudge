@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Problems\Algorithms\LongestPalindromicSubstring.cs" />
     <Compile Include="Problems\Algorithms\MedianOfTwoSortedArrays .cs" />
+    <Compile Include="Problems\Algorithms\ReverseInteger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

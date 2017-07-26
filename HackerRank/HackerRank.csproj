@@ -57,12 +57,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Implementation\AbsolutePermutation.cs" />
+    <Compile Include="Algorithms\Implementation\StrangeCounter.cs" />
+    <Compile Include="Algorithms\Warmup\BirthdayCakeCandles.cs" />
     <Compile Include="Algorithms\Warmup\DiagonalDifference.cs" />
+    <Compile Include="Algorithms\Warmup\MiniMaxSum.cs" />
     <Compile Include="Algorithms\Warmup\PlusMinus.cs" />
     <Compile Include="Algorithms\Warmup\SimpleArraySum.cs" />
     <Compile Include="Algorithms\Warmup\SolveMeFirst.cs" />
     <Compile Include="Algorithms\Warmup\CompareTriplets.cs" />
     <Compile Include="Algorithms\Warmup\Staircase.cs" />
+    <Compile Include="Algorithms\Warmup\TimeConversion.cs" />
     <Compile Include="Algorithms\Warmup\VeryBigSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -74,6 +79,7 @@
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
