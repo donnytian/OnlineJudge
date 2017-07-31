@@ -59,12 +59,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodilityLessions.cs" />
+    <Compile Include="Lessions\Arrays\CyclicRotation.cs" />
+    <Compile Include="Lessions\Arrays\OddOccurrencesInArray.cs" />
+    <Compile Include="Lessions\CountingElements\FrogRiverOne.cs" />
+    <Compile Include="Lessions\CountingElements\MissingInteger.cs" />
+    <Compile Include="Lessions\CountingElements\PermCheck.cs" />
+    <Compile Include="Lessions\PrefixSums\CountDiv.cs" />
+    <Compile Include="Lessions\PrefixSums\GenomicRangeQuery.cs" />
+    <Compile Include="Lessions\PrefixSums\MinAvgTwoSlice.cs" />
+    <Compile Include="Lessions\PrefixSums\PassingCars.cs" />
+    <Compile Include="Lessions\Sorting\Distinct.cs" />
+    <Compile Include="Lessions\Sorting\MaxProductOfThree.cs" />
+    <Compile Include="Lessions\Sorting\NumberOfDiscIntersections.cs" />
+    <Compile Include="Lessions\Sorting\Triangle.cs" />
+    <Compile Include="Lessions\TimeComplexity\FrogJmp.cs" />
+    <Compile Include="Lessions\TimeComplexity\MaxCounters.cs" />
+    <Compile Include="Lessions\TimeComplexity\PermMissingElem.cs" />
+    <Compile Include="Lessions\TimeComplexity\TapeEquilibrium.cs" />
+    <Compile Include="LongestZigzag.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleSwap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

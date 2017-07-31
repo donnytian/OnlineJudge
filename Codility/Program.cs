@@ -108,7 +108,7 @@ namespace Codility
             public Tree r;
         };
 
-        // Zigzag length of binary tree.
+        // Longest Zigzag length of binary tree.
         public int solution(Tree T)
         {
             // write your code in C# 6.0 with .NET 4.5 (Mono)
