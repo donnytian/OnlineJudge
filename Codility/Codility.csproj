@@ -72,6 +72,8 @@
     <Compile Include="Lessions\Sorting\MaxProductOfThree.cs" />
     <Compile Include="Lessions\Sorting\NumberOfDiscIntersections.cs" />
     <Compile Include="Lessions\Sorting\Triangle.cs" />
+    <Compile Include="Lessions\StacksQueues\Brackets.cs" />
+    <Compile Include="Lessions\StacksQueues\Fish.cs" />
     <Compile Include="Lessions\TimeComplexity\FrogJmp.cs" />
     <Compile Include="Lessions\TimeComplexity\MaxCounters.cs" />
     <Compile Include="Lessions\TimeComplexity\PermMissingElem.cs" />
