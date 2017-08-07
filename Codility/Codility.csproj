@@ -77,6 +77,8 @@
     <Compile Include="Lessions\PrimeAndCompositeNumbers\Flags.cs" />
     <Compile Include="Lessions\PrimeAndCompositeNumbers\MinPerimeterRectangle.cs" />
     <Compile Include="Lessions\PrimeAndCompositeNumbers\Peaks.cs" />
+    <Compile Include="Lessions\SieveOfEratosthenes\CountNonDivisible.cs" />
+    <Compile Include="Lessions\SieveOfEratosthenes\CountSemiprimes.cs" />
     <Compile Include="Lessions\Sorting\Distinct.cs" />
     <Compile Include="Lessions\Sorting\MaxProductOfThree.cs" />
     <Compile Include="Lessions\Sorting\NumberOfDiscIntersections.cs" />
