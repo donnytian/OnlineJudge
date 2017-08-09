@@ -66,6 +66,8 @@
     <Compile Include="Lessions\CountingElements\PermCheck.cs" />
     <Compile Include="Lessions\EuclideanAlgorithm\ChocolatesByNumbers.cs" />
     <Compile Include="Lessions\EuclideanAlgorithm\CommonPrimeDivisors.cs" />
+    <Compile Include="Lessions\FibonacciNumbers\FibFrog.cs" />
+    <Compile Include="Lessions\FibonacciNumbers\Ladder.cs" />
     <Compile Include="Lessions\Leader\Dominator.cs" />
     <Compile Include="Lessions\Leader\EquiLeader.cs" />
     <Compile Include="Lessions\MaximumSliceProblem\MaxDoubleSliceSum.cs" />
