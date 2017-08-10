@@ -61,6 +61,8 @@
     <Compile Include="CodilityLessions.cs" />
     <Compile Include="Lessions\Arrays\CyclicRotation.cs" />
     <Compile Include="Lessions\Arrays\OddOccurrencesInArray.cs" />
+    <Compile Include="Lessions\BinarySearchAlgorithm\MinMaxDivision.cs" />
+    <Compile Include="Lessions\BinarySearchAlgorithm\NailingPlanks.cs" />
     <Compile Include="Lessions\CountingElements\FrogRiverOne.cs" />
     <Compile Include="Lessions\CountingElements\MissingInteger.cs" />
     <Compile Include="Lessions\CountingElements\PermCheck.cs" />
