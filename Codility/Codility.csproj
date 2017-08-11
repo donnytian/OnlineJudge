@@ -63,6 +63,9 @@
     <Compile Include="Lessions\Arrays\OddOccurrencesInArray.cs" />
     <Compile Include="Lessions\BinarySearchAlgorithm\MinMaxDivision.cs" />
     <Compile Include="Lessions\BinarySearchAlgorithm\NailingPlanks.cs" />
+    <Compile Include="Lessions\CaterpillarMethod\AbsDistinct.cs" />
+    <Compile Include="Lessions\CaterpillarMethod\CountDistinctSlices.cs" />
+    <Compile Include="Lessions\CaterpillarMethod\CountTriangles.cs" />
     <Compile Include="Lessions\CountingElements\FrogRiverOne.cs" />
     <Compile Include="Lessions\CountingElements\MissingInteger.cs" />
     <Compile Include="Lessions\CountingElements\PermCheck.cs" />
