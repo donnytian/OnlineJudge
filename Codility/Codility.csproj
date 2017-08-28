@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodilityLessions.cs" />
+    <Compile Include="CountOfSimilar.cs" />
     <Compile Include="Lessions\Arrays\CyclicRotation.cs" />
     <Compile Include="Lessions\Arrays\OddOccurrencesInArray.cs" />
     <Compile Include="Lessions\BinarySearchAlgorithm\MinMaxDivision.cs" />
@@ -105,6 +106,7 @@
     <Compile Include="Lessions\TimeComplexity\PermMissingElem.cs" />
     <Compile Include="Lessions\TimeComplexity\TapeEquilibrium.cs" />
     <Compile Include="LongestZigzag.cs" />
+    <Compile Include="MaxDistinctInTreePath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SingleSwap.cs" />
