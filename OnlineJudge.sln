@@ -1,18 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{50F1C516-1F6A-48DD-99C1-70C759EAC0C7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{4E6A658C-21DF-4A6C-866D-8950A1BD1831}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility", "Codility\Codility.csproj", "{D4837B97-0EA9-4F84-86E3-37D97EC1DE96}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C55F336-26B0-4356-B6C9-216C2ED986E4}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{B295EDFA-AD2A-4F1B-A4FF-DAAA289CC743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{5A1253D4-0832-4070-8823-80798EF3EE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility", "Codility\Codility.csproj", "{394DE561-FBE0-449F-9CBF-849F9CDA7F27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,20 +20,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50F1C516-1F6A-48DD-99C1-70C759EAC0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50F1C516-1F6A-48DD-99C1-70C759EAC0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50F1C516-1F6A-48DD-99C1-70C759EAC0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50F1C516-1F6A-48DD-99C1-70C759EAC0C7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E6A658C-21DF-4A6C-866D-8950A1BD1831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E6A658C-21DF-4A6C-866D-8950A1BD1831}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E6A658C-21DF-4A6C-866D-8950A1BD1831}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E6A658C-21DF-4A6C-866D-8950A1BD1831}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4837B97-0EA9-4F84-86E3-37D97EC1DE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4837B97-0EA9-4F84-86E3-37D97EC1DE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4837B97-0EA9-4F84-86E3-37D97EC1DE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4837B97-0EA9-4F84-86E3-37D97EC1DE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B295EDFA-AD2A-4F1B-A4FF-DAAA289CC743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B295EDFA-AD2A-4F1B-A4FF-DAAA289CC743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B295EDFA-AD2A-4F1B-A4FF-DAAA289CC743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B295EDFA-AD2A-4F1B-A4FF-DAAA289CC743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1253D4-0832-4070-8823-80798EF3EE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1253D4-0832-4070-8823-80798EF3EE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1253D4-0832-4070-8823-80798EF3EE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1253D4-0832-4070-8823-80798EF3EE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394DE561-FBE0-449F-9CBF-849F9CDA7F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394DE561-FBE0-449F-9CBF-849F9CDA7F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394DE561-FBE0-449F-9CBF-849F9CDA7F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394DE561-FBE0-449F-9CBF-849F9CDA7F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42525820-9ABD-4372-BD03-10FE12BF40AF}
 	EndGlobalSection
 EndGlobal
