@@ -63,6 +63,9 @@ namespace LeetCode.Problems.Algorithms
         [InlineData(10, false)]
         [InlineData(-101, false)]
         [InlineData(1001, true)]
+        [InlineData(27872, true)]
+        [InlineData(145541, true)]
+        [InlineData(123123, false)]
         public void StringToInteger(int x, bool expected)
         {
             var result = new PalindromeNumber().IsPalindrome(x);
