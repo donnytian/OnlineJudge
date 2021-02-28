@@ -13,11 +13,6 @@ namespace LeetCode.Problems.Algorithms
     {
         public bool IsMatch(string s, string p)
         {
-            if (string.IsNullOrWhiteSpace(p))
-            {
-                return false;
-            }
-
             var dp = new bool[s.Length + 1, p.Length + 1];
             // "" and "" always match;
             dp[0, 0] = true;
